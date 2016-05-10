@@ -2,4 +2,4 @@
 
 Hackathon style Solve Sudoku problems tool
 
-Current iteration only solves easy-medium puzzles and is pretty inefficient but atleast it works.
+Current iteration is pretty inefficient but works for all valid scenarios I've tested so far.
