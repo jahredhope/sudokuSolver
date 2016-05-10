@@ -1,0 +1,22 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "Solves sudoku puzzles",
+  "main": "index.js",
+  "scripts": {
+    "test": "node /index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahredhope/sudokuSolver.git"
+  },
+  "keywords": [
+    "sudoku"
+  ],
+  "author": "Jahred Hope (jahredhope@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jahredhope/sudokuSolver/issues"
+  },
+  "homepage": "https://github.com/jahredhope/sudokuSolver#readme"
+}
